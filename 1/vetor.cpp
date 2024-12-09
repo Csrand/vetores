@@ -30,12 +30,12 @@ int main () {
 		}
 	}
 	
-	cout << "A quantidade de pares é: " <<par<<endl;
+	cout << "A quantidade de pares   Ã©: " <<par<<endl;
 	for(i = 0; i<par; i++){
 	 	cout<<pares[i]<<endl;
 	}
 	
-	cout << "A quantidade de impares é: " <<impar<<endl;
+	cout << "A quantidade de impares Ã©: " <<impar<<endl;
 	for(i = 0; i<impar; i++){
 		cout<<impares[i]<<endl;
 	}
